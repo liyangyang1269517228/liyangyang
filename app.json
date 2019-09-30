@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffff",
+    "navigationBarTitleText": "李阳阳的个人简历",
+    "navigationBarTextStyle": "black"
+  },
+ 
+
+  "sitemapLocation": "sitemap.json",
+
+  "tabBar": {
+    "color": "#6e6d6b",
+    "selctedColor": "#e64304",
+    "borderStyle": "white",
+    "backgroundColor": "#CCFFFF",
+    "list": [
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "名片",
+        "iconPath": "pages/image/1-1.png",
+        "selectedIconPath": "pages/image/1-2.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "名片",
+        "iconPath": "pages/image/1-1.png",
+        "selectedIconPath": "pages/image/1-2.png"
+      }
+    ]
+  }
+}

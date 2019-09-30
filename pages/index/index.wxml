@@ -1,0 +1,57 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="box">
+
+    <image class="img" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2777604137,586660524&fm=26&gp=0.jpg"></image>
+    <view class="con">
+
+      <view class="con1">
+        <view class="header">
+           <text class="iconfont icon1" id="icon1"></text>
+          <text class="er">工作经历</text> 
+        </view>
+        <view class="aa">
+         <text class="iconfont icon3" id="icon1"></text>
+         <text class="er">2018.10-2019.06</text> 
+        </view>
+        <view class="bb">
+         <text class="iconfont icon3" id="icon1"></text>
+         <text class="er">北京云锦科技有限公司</text> 
+      </view>
+        <view class="aa">
+         <text class="iconfont icon3" id="icon1"></text>
+         <text class="er"> 2018.10-2019.06</text> 
+       </view>
+        <view class="bb">
+          <text class="iconfont icon3" id="icon1"></text>
+         <text class="er">北京奥里给科技有限公司</text> 
+        </view>
+        <view class="aa">
+          <text class="iconfont icon3" id="icon1"></text>
+         <text class="er"> 2018.10-2019.06</text> 
+       </view>
+        <view class="bb">
+         <text class="iconfont icon3" id="icon1"></text>
+         <text class="er">北京奥里给科技有限公司</text> 
+        </view>
+
+        <view class="header">
+         <text class="iconfont icon2"></text>
+        教育经历</view>
+        <view class="aa">
+          <text class="iconfont icon3" id="icon1"></text>
+          <text class="er"> 2018.10-2019.06</text> 
+        </view>
+        <view class="bb">
+          <text class="iconfont icon3" id="icon1"></text>
+          <text class="er"> 石家庄科技大学</text> 
+        </view>
+      
+      
+      </view>
+
+    </view>
+
+  </view>
+  <view class="wei"></view>
+</view>

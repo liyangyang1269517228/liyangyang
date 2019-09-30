@@ -1,0 +1,18 @@
+/**index.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  background: #F4F4F4;
+} 
+.box{width: 100%;flex: 1;}
+.img{width: 100%;height: 360rpx;display: block;}
+.con{width: 92%;height:700rpx;margin: auto;margin-top: -40rpx;z-index: 12;background: white;border-radius: 20rpx}
+.con1{width: 75%;height:700rpx;margin-left:150rpx;border: 1rpx white solid;}
+.header{margin-top: 30rpx; font-size: 34rpx; vertical-align:middle;}
+.aa{margin-top: 20rpx; font-size: 32rpx;color:#5A5A5A;}
+.bb{margin-top: 10rpx; font-size: 32rpx;color:#5A5A5A;}
+.wei{height: 200rpx;width: 100%;background:#F4F4F4 ;}
