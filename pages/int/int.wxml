@@ -1,0 +1,63 @@
+<!--pages/int/int.wxml-->
+
+<view class="container">
+  <view class="box">
+
+    <image class="img" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2777604137,586660524&fm=26&gp=0.jpg"></image>
+    <view class="con">
+
+      <view class="con1">
+         <h1>李阳阳</h1>
+        <view class="li">
+           <view class="lia" >手机 </view>
+           <view class="lib">{{op}} </view>
+           <button size="mini" bindtap="call">拨打</button>
+        </view>
+         <view class="li">
+           <view class="lia">邮箱 </view>
+           <view class="lib">{{op2}} </view>
+           <button size="mini" bindtap="copy">复制</button>
+        </view>
+         <view class="li">
+           <view class="lia">职业 </view>
+           <view class="lib">{{op3}} </view>
+           <button size="mini"  bindtap="copy">复制</button>
+        </view>     
+      </view>
+       
+       <view class="con2">
+
+          <button class="yy1" canvas-id='canvas_poster'>
+            <view class="ya">
+              <text class="iconfont icon4" id="icon4"></text>
+            </view>
+            <text class="yat">生成海报</text>
+          </button>
+
+          <button class="yy2" bindtap="add">
+            <view class="ya">
+              <text class="iconfont icon5" id="icon4"></text>
+            </view>
+            <text class="yat">保存电话</text>
+          </button>
+
+          <button class="yy3" open-type='share' >
+            <view class="ya">
+              <text class="iconfont icon6" id="icon4"></text>
+            </view>
+            <text class="yat">分享好友</text>
+          </button>
+          
+          
+       
+       
+       </view>
+
+
+
+    </view>
+
+
+  </view>
+  <view class="wei"></view>
+</view>
