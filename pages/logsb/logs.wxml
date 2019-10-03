@@ -1,0 +1,55 @@
+<!--pages/logsb/logs.wxml-->
+
+
+<!--pages/logsa/logs.wxml-->
+<view class="box">
+   <view class="header"></view>
+     <view class="header2">
+      <text class="header2t"> "我柚话说"是一家专注于聊天讨论的软件。</text>
+     </view>
+    
+     <view class="con">
+        <h1>应用选项</h1>
+        <view class="con1">
+          首页：用来发布想讨论的话题。
+        </view>
+        <view class="con1">
+          发布页：会让发布者上传图片、输入话题、描述、上传图片、是否开启投票等。
+        </view>
+        
+        <view class="con2">
+           <view class="con2-1"></view>
+            <view class="con2-1"></view>
+        </view>
+
+         <h1>发现选项</h1>
+        <view class="con1">
+         包含一个热点话题和推荐话题。
+        </view>
+      
+        <view class="con2">
+           <view class="con2-1"></view>
+            <view class="con2-1"></view>
+        </view>
+
+          <h1>评论、分享选项</h1>
+      
+        <view class="con2">
+           <view class="con2-1"></view>
+            <view class="con2-1"></view>
+        </view>
+
+           <h1>个人选项</h1>
+       <view class="con1">
+         个人页：包含基本功能，可观看用户观看粉丝，接收的消息，与客服讨论等情况。
+        </view>
+        <view class="con2">
+           <view class="con2-1"></view>
+            <view class="con2-1"></view>
+        </view>
+
+
+     </view>
+
+</view>
+

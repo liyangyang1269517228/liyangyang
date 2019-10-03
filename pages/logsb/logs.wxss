@@ -1,0 +1,12 @@
+/* pages/logsb/logs.wxss *//* pages/logsa/logs.wxss */
+.box{background: #99CBEA;border: 1rpx solid #99D9EA; }
+.header{width: 120rpx;height: 140rpx;border-radius:50%;background: #99ACEA;margin: auto;margin-top: 30rpx; }
+
+.header2{width: 680rpx;height:40rpx;margin: auto;margin-top: 20rpx;text-indent:55rpx;font-size: 32rpx;letter-spacing:4rpx }
+
+.con{width: 680rpx;height: 100%;margin: auto;}
+h1{font-size: 40rpx;margin-top: 30rpx;display: block;}
+.con1{margin-top: 20rpx;text-indent:55rpx;font-size: 32rpx;letter-spacing:4rpx}
+
+.con2{width: 680rpx;display: flex;justify-content: space-between;margin-top: 20rpx;}
+.con2-1{width: 300rpx;height: 500rpx;background: #99AEEA;}

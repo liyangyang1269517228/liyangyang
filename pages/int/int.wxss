@@ -18,10 +18,10 @@ h1{font-size: 50rpx;margin: 20rpx 20rpx;display: block;}
 .lib{float:left;margin-left: 60rpx;}
 button{margin: 0;padding: 0;float:right;margin-right: 20rpx;font-size: 32rpx;}
 .con2{margin: 40rpx;height: 160rpx;}
-.yy1{width: 150rpx;height: 160rpx;float: left;margin-left: 10rpx;background: #F4F4F4;border: none; }
+.yy1{width: 150rpx;height: 160rpx;float: left;margin-left: 10rpx;background: #F4F4F4;}
 .ya{width: 100rpx;height: 100rpx;border-radius: 50%;background:#74CFCA;display: block;margin: 0 25rpx }
 .yat{font-size: 32rpx;display: block;margin:0rpx 10rpx }
 #icon4{color: white;font-size: 50rpx;line-height: 100rpx;margin-left:1rpx}
-.yy2{width: 150rpx;height: 160rpx;float: left;margin-left: 60rpx;background: #F4F4F4;border:none; }
-.yy3{width: 150rpx;height: 160rpx;float: left;margin-left: 60rpx;background: #F4F4F4;border: none; }
-
+.yy2{width: 150rpx;height: 160rpx;float: left;margin-left: 60rpx;background: #F4F4F4;}
+.yy3{width: 150rpx;height: 160rpx;float: left;margin-left: 60rpx;background: #F4F4F4;}
+button::after{ border: none; }

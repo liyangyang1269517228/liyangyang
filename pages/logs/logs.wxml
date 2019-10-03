@@ -1,4 +1,14 @@
 <!--logs.wxml-->
 <view class="box">
- 
+    <view class="con" >
+       
+       <view class="one" bindtap="tiaoA"> </view>
+       <h1> 邻挑细选 </h1>
+       <h4> 小程序 </h4>
+
+       <view class="two" bindtap="tiaoB"> </view>
+       <h1> 我柚话说 </h1>
+       <h4> 小程序 </h4>
+
+    </view>
 </view>

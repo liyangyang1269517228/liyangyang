@@ -1,8 +1,12 @@
 {
   "pages": [
-    "pages/int/int",
-    "pages/logs/logs",
-    "pages/index/index"
+    "pages/index/index",
+    "pages/logsb/logs",
+      "pages/logs/logs",
+    "pages/logsa/logs",
+    "pages/int/int"
+   
+   
   ],
   "window": {
     "backgroundTextStyle": "light",

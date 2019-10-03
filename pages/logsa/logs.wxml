@@ -1,0 +1,40 @@
+<!--pages/logsa/logs.wxml-->
+<view class="box">
+   <view class="header"></view>
+     <view class="header2">
+      <text class="header2t"> "邻挑细选"是一家专注于熟人推荐优惠信息的电商品牌，生活用品，零食特产，母婴玩具，优惠信息应有尽有，从各方面为你推荐满足需求的优质导航品。</text>
+     </view>
+    
+     <view class="con">
+        <h1>应用选项</h1>
+        <view class="con1">
+          首页：包含团团赚、群接龙、签到赚贝壳、每日兔费、贝壳当钱花、限时特惠、轻松赚贝壳、行走还呗等功能。
+        </view>
+        <view class="con1">
+           还包含推荐商品、销售量、新物品等在首页显示，方便用户观赏。
+        </view>
+        <view class="con1">
+           搜索页：会显示热门搜索，根据物品名称拼音首字母进行搜素。
+        </view>
+
+        <view class="con2">
+           <view class="con2-1"></view>
+            <view class="con2-1"></view>
+        </view>
+
+         <h1>全部、个人选项</h1>
+        <view class="con1">
+          全部：就是对商品的分类，对物品的综合，还有夹克排序等。
+        </view>
+        <view class="con1">
+            个人页：包含基本功能，着重突出用户的可提现金额和贝壳，可观看用户购买物品的物流的详细信息、优惠券、收货地址。物流或物品不满意还可以与客服进行退还货的沟通。
+        </view>
+      
+
+        <view class="con2">
+           <view class="con2-1"></view>
+            <view class="con2-1"></view>
+        </view>
+     </view>
+
+</view>
